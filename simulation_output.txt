@@ -1,0 +1,35 @@
+========================================
+       BUS TRACKING SYSTEM
+========================================
+
+----------------------------------------
+Bus ID       : BUS101
+Route        : Kottapeta - Railway Station
+Current Stop : Kottapeta
+Next Stop    : Main Road
+----------------------------------------
+
+----------------------------------------
+Bus ID       : BUS102
+Route        : Kottapeta - Bus Stand
+Current Stop : Kottapeta
+Next Stop    : College
+----------------------------------------
+
+Updating bus locations...
+
+----------------------------------------
+Bus ID       : BUS101
+Route        : Kottapeta - Railway Station
+Current Stop : Main Road
+Next Stop    : Market
+----------------------------------------
+
+----------------------------------------
+Bus ID       : BUS102
+Route        : Kottapeta - Bus Stand
+Current Stop : College
+Next Stop    : Hospital
+----------------------------------------
+
+Simulation completed successfully.
